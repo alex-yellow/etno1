@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="160" viewBox="0 0 140 160">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c8e7bb;
+        opacity: 0.5;
+      }
+    </style>
+  </defs>
+  <rect id="rectangle.svg" class="cls-1" width="140" height="160"/>
+</svg>
